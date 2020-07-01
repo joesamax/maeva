@@ -5,7 +5,7 @@
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>Sylvio ADcard</name>
+	<name>Maëva ADcard</name>
 
 	<description>Votre carte virtuelle professionnelle par Alizés Développement</description>
 
@@ -32,7 +32,7 @@
 	<plugin name="cordova-plugin-device" source="npm" />
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-        <content src="https://adapp.alizesdeveloppement.fr/sylvio/" />
+        <content src="https://adapp.alizesdeveloppement.fr/maeva/" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />
